@@ -25,5 +25,5 @@ def titleize(string)
             word = word.capitalize!
         end
     end
-    words.join(' ').chomp(' ')
+    words.join(' ')
 end
